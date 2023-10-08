@@ -54,11 +54,9 @@ This was just the tip of the iceberg, and many more use-cases exist. However, yo
 
 > **AJAX stands for Asynchronous JavaScript and XML**. It is a set of web development to build more responsive websites and applications. AJAX allows web pages to update their content without users having to reload the page.
 > 
+> ![what-is-ajax-1](https://github.com/nurdanakman/Headless-UI-Testing/assets/63924300/a99aba30-cc15-44ac-894d-84d780b558f0)
 > 
-> 
-> 
-> 
-> 
+> ![Screenshot 2023-10-08 at 15 38 09](https://github.com/nurdanakman/Headless-UI-Testing/assets/63924300/6454ba99-1dab-426b-8153-635f58d4bcba)
 
 ### **Frameworks used for Headless Browser Testing**
 
