@@ -4,7 +4,8 @@
     "description": "Puppeteer POC project",
     "main": "index.js",
     "dependencies": {
-        "puppeteer": "^21.3.8"
+        "puppeteer": "^21.3.8",
+        "selenium-webdriver": "^4.13.0"
     },
     "scripts": {
         "test": "node test.js"
